@@ -32,7 +32,7 @@ if b<0:
 else:
     d=len(finds)+b
     c=c[d:]
-finds="(The documentation for these CPUs all list the same ten opcodes.)"
+finds="These opcodes are listed as reserved opcodes that will produce"
 b=c.find(finds)
 if b<0:
     print("error:")
