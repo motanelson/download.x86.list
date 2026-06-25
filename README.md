@@ -1,2 +1,1 @@
-# translate.english.frace
-translate.english.frace dicinary from english &lt;> france
+download x86 opt code list
